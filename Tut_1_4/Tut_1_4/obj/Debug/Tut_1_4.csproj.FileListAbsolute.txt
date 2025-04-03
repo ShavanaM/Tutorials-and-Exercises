@@ -1,0 +1,6 @@
+C:\Users\Gayathri Peedam\Desktop\C# TUT 1\Tut_1_4\Tut_1_4\bin\Debug\Tut_1_4.exe.config
+C:\Users\Gayathri Peedam\Desktop\C# TUT 1\Tut_1_4\Tut_1_4\bin\Debug\Tut_1_4.exe
+C:\Users\Gayathri Peedam\Desktop\C# TUT 1\Tut_1_4\Tut_1_4\bin\Debug\Tut_1_4.pdb
+C:\Users\Gayathri Peedam\Desktop\C# TUT 1\Tut_1_4\Tut_1_4\obj\Debug\Tut_1_4.csprojResolveAssemblyReference.cache
+C:\Users\Gayathri Peedam\Desktop\C# TUT 1\Tut_1_4\Tut_1_4\obj\Debug\Tut_1_4.exe
+C:\Users\Gayathri Peedam\Desktop\C# TUT 1\Tut_1_4\Tut_1_4\obj\Debug\Tut_1_4.pdb
